@@ -1,7 +1,8 @@
 # Healthcare Premium Prediction
-![Uploading healthcare premium prediction.png…]()
 
+![healthcare premium prediction](https://github.com/user-attachments/assets/b284ca11-2d5d-46d1-ba17-ec728fffae6d)
 ![Screenshot 2025-05-22 083943](https://github.com/user-attachments/assets/883b9375-b38d-43e7-bec8-92e659b059be)
+
 
 
 
