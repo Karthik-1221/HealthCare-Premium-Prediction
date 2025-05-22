@@ -20,6 +20,8 @@ This project utilizes **Machine Learning Regression** techniques to predict heal
 - **Pandas & NumPy**
 - **Matplotlib & Seaborn**
 - **Streamlit** (for deployment)
+- 
+Link - https://healthcare-premium-prediction-by-karthik.streamlit.app/
 
 ## How to Use
 1. Visit the app using the link above.
