@@ -1,6 +1,10 @@
 # Healthcare Premium Prediction
+![Uploading healthcare premium prediction.png…]()
 
 ![Screenshot 2025-05-22 083943](https://github.com/user-attachments/assets/883b9375-b38d-43e7-bec8-92e659b059be)
+
+
+
 ## Overview
 This project utilizes **Machine Learning Regression** techniques to predict healthcare insurance premiums based on various factors. By analyzing historical data, the model aims to provide accurate premium estimates, helping individuals and insurance providers make informed decisions.
 
