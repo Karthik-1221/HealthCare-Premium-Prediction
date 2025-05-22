@@ -21,6 +21,14 @@ This project utilizes **Machine Learning Regression** techniques to predict heal
 - **Matplotlib & Seaborn**
 - **Streamlit** (for deployment)
 
+## How to Use
+1. Visit the app using the link above.
+2. Enter relevant details such as age, BMI, smoking status, and more.
+3. Click **Predict** to get an estimated insurance premium.
+4. Explore the insights and refine predictions.
+
+
+
 ## Installation
 1. Clone the repository:
    ```bash
