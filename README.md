@@ -1,19 +1,22 @@
 # Healthcare Premium Prediction
 
 ![healthcare premium prediction](https://github.com/user-attachments/assets/b284ca11-2d5d-46d1-ba17-ec728fffae6d)
-![Screenshot 2025-05-22 083943](https://github.com/user-attachments/assets/883b9375-b38d-43e7-bec8-92e659b059be)
 
-
-
+# Healthcare Premium Prediction App
 
 ## Overview
-This project utilizes **Machine Learning Regression** techniques to predict healthcare insurance premiums based on various factors. By analyzing historical data, the model aims to provide accurate premium estimates, helping individuals and insurance providers make informed decisions.
+Welcome to the **Healthcare Premium Prediction** app! This project aims to predict healthcare insurance premiums using Machine Learning Regression models. By leveraging Linear Regression and XGBoost Regressor, the application provides accurate estimations based on various input factors. The model has been deployed using Streamlit, making it accessible via a user-friendly web interface.
+
+
+## Try the App
+You can access the live application here:  
+🔗 [Healthcare Premium Prediction App](https://healthcare-premium-prediction-by-karthik.streamlit.app/)
 
 ## Features
-- **Data Preprocessing**: Cleans and prepares the dataset for analysis.
-- **Exploratory Data Analysis (EDA)**: Visualizes trends and relationships in the data.
-- **Model Training**: Implements regression models to predict insurance premiums.
-- **Evaluation Metrics**: Assesses model performance using standard metrics.
+- **User-Friendly Interface**: Easily input data and get premium predictions.
+- **Data-Driven Insights**: Understand how different factors influence premium costs.
+- **Interactive Visualizations**: Explore trends and relationships in the data.
+- **Machine Learning Models**: Powered by regression algorithms for precise predictions.
 
 ## Technologies Used
 - **Python**
@@ -21,8 +24,6 @@ This project utilizes **Machine Learning Regression** techniques to predict heal
 - **Pandas & NumPy**
 - **Matplotlib & Seaborn**
 - **Streamlit** (for deployment)
-- 
-Link - https://healthcare-premium-prediction-by-karthik.streamlit.app/
 
 ## How to Use
 1. Visit the app using the link above.
@@ -30,10 +31,11 @@ Link - https://healthcare-premium-prediction-by-karthik.streamlit.app/
 3. Click **Predict** to get an estimated insurance premium.
 4. Explore the insights and refine predictions.
 
+## Contributing
+If you’d like to improve the project, feel free to fork the repository and submit pull requests.
 
+## License
+This project is licensed under the **Apache-2.0 License**.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Karthik-1221/HealthCare-Premium-Prediction.git# HealthCare-Premium-Prediction
-Machine Learning Regression Project 
+## Author
+[Karthik](https://github.com/Karthik-1221)
